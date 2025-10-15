@@ -1,0 +1,28 @@
+{
+  "name": "oc4_1_0_3_hu_language",
+  "version": "1.0.0",
+  "description": "Hungarian (formal) language for OpenCart 4.1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "compress auto": "node compress_auto.js",
+    "compress manual": "node compress_manual.js"
+  },
+  "keywords": [
+    "opencart",
+    "oc",
+    "playfulsparkle",
+    "hungarian",
+    "magyar",
+    "language"
+  ],
+  "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
+  "license": "GPL",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playfulsparkle/oc4_1_0_3_hu_language.git"
+  }
+}

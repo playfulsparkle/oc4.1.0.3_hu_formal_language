@@ -1,0 +1,136 @@
+<?php
+// Heading
+$_['heading_title']              = 'Rendelések';
+
+// Text
+$_['text_success']               = 'Siker: A rendelés sikeresen módosítva lett!';
+$_['text_list']                  = 'Rendelések lista';
+$_['text_add']                   = 'Hozzáadás';
+$_['text_edit']                  = 'Rendelés (#%s)';
+$_['text_filter']                = 'Szűrő';
+$_['text_store']                 = 'Áruház';
+$_['text_date_added']            = 'Létrehozva';
+$_['text_customer']              = 'Vásárló';
+$_['text_product_add']           = 'Termék hozzáadása';
+$_['text_model'] 			     = 'Cikkszám';
+$_['text_reward']                = 'Bónuszpontok';
+$_['text_points']                = 'Jutalompontok';
+$_['text_reward_add']            = 'Siker: Bónuszpontok hozzáadva!';
+$_['text_reward_remove']         = 'Siker: Bónuszpontok eltávolítva!';
+$_['text_affiliate']             = 'Partner fiók';
+$_['text_commission']            = 'Jutalék';
+$_['text_commission_add']        = 'Siker: Jutalék hozzáadva!';
+$_['text_commission_remove']     = 'Siker: Jutalék eltávolítva!';
+$_['text_upload']                = 'A fájl sikeresen feltöltve!';
+$_['text_subscription']          = 'Előfizetés';
+$_['text_subscription_trial']    = '%s minden %d %s időszakonként %d fizetésig, majd';
+$_['text_subscription_duration'] = '%s minden %d %s időszakonként %d fizetésig';
+$_['text_subscription_cancel']   = '%s minden %d %s időszakonként a lemondásig';
+$_['text_day']                   = 'nap';
+$_['text_week']                  = 'hét';
+$_['text_semi_month']            = 'fél hónap';
+$_['text_month']                 = 'hónap';
+$_['text_year']                  = 'év';
+$_['text_more']                  = 'Több..';
+$_['text_less']                  = 'Kevesebb..';
+$_['text_payment_address']       = 'Fizetési cím';
+$_['text_payment_method']        = 'Fizetés módja';
+$_['text_payment']               = 'Kérjük, válassza ki a kívánt fizetési módot a rendeléshez.';
+$_['text_shipping_address']      = 'Szállítási cím';
+$_['text_shipping_method']       = 'Szállítás módja';
+$_['text_shipping']              = 'Kérjük, válassza ki a kívánt szállítási módot a rendeléshez.';
+$_['text_comment']               = 'Megjegyzés';
+$_['text_history']               = 'Előzmény';
+$_['text_history_add']           = 'Előzmény hozzáadása';
+$_['text_browser']               = 'Böngésző';
+$_['text_ip']                    = 'IP cím';
+$_['text_forwarded_ip']          = 'Átirányított IP';
+$_['text_user_agent']            = 'Felhasználói ágens';
+$_['text_accept_language']       = 'Nyelv';
+$_['text_order_id']              = 'Rendelés azonosító';
+$_['text_website']               = 'Weboldal';
+$_['text_invoice']               = 'Számla';
+$_['text_invoice_no']            = 'Számlaszám';
+$_['text_tbc']                   = 'TBC';
+$_['text_store_address']         = 'Áruház címe';
+$_['text_store_telephone']       = 'Áruház telefonszám';
+$_['text_store_email']           = 'Áruház c-mail';
+$_['text_customer_email']        = 'Vásárló e-mail';
+$_['text_customer_telephone']    = 'Vásárló telefonszám';
+$_['text_missing']               = 'Hiányos rendelések';
+$_['text_default']               = 'Alapértelmezett';
+$_['text_picklist']              = 'Szállítólevél';
+$_['text_sku']                   = 'SKU';
+$_['text_upc']                   = 'UPC';
+$_['text_ean']                   = 'EAN';
+$_['text_jan']                   = 'JAN';
+$_['text_isbn']                  = 'ISBN';
+$_['text_mpn']                   = 'MPN';
+
+// Column
+$_['column_order_id']            = 'Rendelés azonosító';
+$_['column_customer']            = 'Vásárló';
+$_['column_store']               = 'Áruház';
+$_['column_status']              = 'Állapot';
+$_['column_date_added']          = 'Létrehozva';
+$_['column_date_modified']       = 'Módosítva';
+$_['column_total']               = 'Összesen';
+$_['column_product']             = 'Termék';
+$_['column_model']               = 'Cikkszám';
+$_['column_quantity']            = 'Mennyiség';
+$_['column_price']               = 'Egységár';
+$_['column_comment']             = 'Megjegyzés';
+$_['column_notify']              = 'Vásárló értesítve';
+$_['column_location']            = 'Helyszín';
+$_['column_reference']           = 'Hivatkozás';
+$_['column_weight']              = 'Termék súlya';
+$_['column_action']              = 'Művelet';
+
+// Entry
+$_['entry_store']                = 'Áruház';
+$_['entry_customer']             = 'Vásárló';
+$_['entry_customer_group']       = 'Vásárlói csoport';
+$_['entry_firstname']            = 'Keresztnév';
+$_['entry_lastname']             = 'Vezetéknév';
+$_['entry_email']                = 'E-mail';
+$_['entry_telephone']            = 'Telefonszám';
+$_['entry_address']              = 'Cím kiválasztása';
+$_['entry_company']              = 'Cégnév';
+$_['entry_address_1']            = 'Cím 1';
+$_['entry_address_2']            = 'Cím 2';
+$_['entry_city']                 = 'Város';
+$_['entry_postcode']             = 'Irányítószám';
+$_['entry_country']              = 'Ország';
+$_['entry_zone']                 = 'Megye';
+$_['entry_product']              = 'Termék kiválasztása';
+$_['entry_option']               = 'Opciók kiválasztása';
+$_['entry_subscription']         = 'Előfizetés kiválasztása';
+$_['entry_quantity']             = 'Mennyiség';
+$_['entry_order_status']         = 'Rendelés állapota';
+$_['entry_notify']               = 'Vásárló értesítése';
+$_['entry_shipping_method']      = 'Szállítási mód';
+$_['entry_payment_method']       = 'Fizetés módja';
+$_['entry_override']             = 'Felülbírálat';
+$_['entry_comment']              = 'Megjegyzés';
+$_['entry_language']             = 'Nyelv';
+$_['entry_currency']             = 'Valuta';
+$_['entry_affiliate']            = 'Partner';
+$_['entry_order_id']             = 'Rendelés azonosító';
+$_['entry_total']                = 'Összegzés';
+$_['entry_date_from']            = 'Dátumtól';
+$_['entry_date_to']              = 'Dátumig';
+$_['entry_date_modified_from']   = 'Módosítás dátuma - ettől';
+$_['entry_date_modified_to']     = 'Módosítás dátuma - eddig';
+
+// Help
+$_['help_override']              = 'Ha az ügyfél rendelése blokkolva van az állapot módosításában egy anti-csalás bővítmény miatt, engedélyezze a felülírást.';
+
+// Error
+$_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
+$_['error_permission']           = 'Figyelmeztetés: Nincs jogosultsága a rendelés módosításához!';
+$_['error_invoice_no']           = 'Figyelmeztetés: Számla szám már létre lett hozva!';
+$_['error_order']                = 'Figyelmeztetés: A rendelés nem létezik!';
+$_['error_affiliate']            = 'Figyelmeztetés: A partner nem létezik!';
+$_['error_reward_add']           = 'Figyelmeztetés: A hűségpontok már hozzá lettek adva ehhez a rendeléshez!';
+$_['error_reward_guest']         = 'Figyelmeztetés: A vendégek nem használhatnak bónuszpontokat!';
+$_['error_commission_add']       = 'Figyelmeztetés: A partner bizomány már hozzá lett adva ehhez a rendeléshez!';
