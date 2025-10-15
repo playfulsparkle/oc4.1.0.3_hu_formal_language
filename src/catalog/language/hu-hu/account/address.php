@@ -11,6 +11,7 @@ $_['text_add']           = 'A címe sikeresen hozzáadásra került';
 $_['text_edit']          = 'A címe sikeresen frissítésre került';
 $_['text_delete']        = 'A címe sikeresen törlésre került';
 $_['text_no_results']    = 'Nincs mentett címe a fiókjában.';
+$_['text_default']       = 'Alapértelmezett';
 
 // Entry
 $_['entry_firstname']    = 'Keresztnév';

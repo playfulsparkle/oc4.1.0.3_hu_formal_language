@@ -44,3 +44,15 @@ $_['error_directory']        = 'A %s telepítő könyvtár nem található!';
 $_['error_directory_exists'] = 'A(z) %s elérési út már létezik!';
 $_['error_unzip']            = 'A zip fájl nem nyitható meg!';
 $_['error_upload']           = 'A fájl nem tölthető fel!';
+$_['error_unknown']          = 'Ismeretlen hiba történt!';
+
+// Zip errors
+$_['zip_error_exists']       = 'A fájl már létezik!';
+$_['zip_error_incons']       = 'A ZIP archívum inkonzisztens!';
+$_['zip_error_inval']        = 'Érvénytelen paraméter!';
+$_['zip_error_memory']       = 'Sikertelen memóriafoglalás!';
+$_['zip_error_noent']        = 'Ilyen fájl nem létezik!';
+$_['zip_error_nozip']        = 'Nem ZIP archívum!';
+$_['zip_error_open']         = 'A fájl nem nyitható meg!';
+$_['zip_error_read']         = 'Olvasási hiba!';
+$_['zip_error_seek']         = 'Pozicionálási hiba!';
