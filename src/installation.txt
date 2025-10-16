@@ -11,23 +11,7 @@ Key Features
 - Compatible with OpenCart 4.1.0.3 versions.
 - The translation is thorough and detailed; we have paid great attention to ensuring that the terminology is consistent across every page, e.g., using "áruház" instead of "üzlet" or "bolt".
 
-Installation Using the Extension Installer
-
-1. Download the "Hungarian language (formal)" package from the OpenCart Marketplace.
-2. Log in to the OpenCart 4.1.0.3 administration interface.
-3. Navigate to the "Extensions" -> "Installer" page.
-4. Click on the "Upload" button and select the "ps_hu_formal_language.ocmod.zip" file to upload.
-   Note: Ensure that the file name is exactly "ps_hu_formal_language.ocmod.zip", or the installation will fail!
-5. You will see the "Hungarian language (formal)" extension in the list, click on the "Install" button.
-   Note: The installation may take a while as the system extracts the files; please wait until the message "Success: You have modified extensions!" appears.
-6. Navigate to the "Extensions" page and under "Choose the extension type", select "Languages".
-7. You will see the "Hungarian language (formal)" extension in the list, click on the "Install" button.
-   Note: Applying the language settings may take some time as the system configures the new language; wait until the message "Success: You have modified languages!" appears.
-8. Click on the "Edit" button, then enable the language extension and click "Save"; this will activate the language pack.
-
-Caution: If you installed the language pack using the extension installer, then go to the "Languages" section under the "Extensions" page, and click the "Uninstall" button next to the language, it will remove not only the language but also all translations for products, categories, and more!
-
-Manual Installation
+Installation
 
 1. Download the "Hungarian language (formal)" package "ps_hu_formal_language.zip" from the OpenCart Marketplace.
 2. Extract the language package files to a folder.
