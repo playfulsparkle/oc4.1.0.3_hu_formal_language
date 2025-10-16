@@ -4,8 +4,7 @@
   "description": "Hungarian (formal) language for OpenCart 4.1.0.3",
   "main": "index.js",
   "scripts": {
-    "compress auto": "node compress_auto.js",
-    "compress manual": "node compress_manual.js"
+    "compress": "node compress.js"
   },
   "keywords": [
     "opencart",
