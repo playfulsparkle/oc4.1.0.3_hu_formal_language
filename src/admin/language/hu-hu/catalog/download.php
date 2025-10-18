@@ -16,7 +16,7 @@ $_['column_ip']                = 'IP cím';
 $_['column_account']           = 'Fiókok';
 $_['column_store']             = 'Áruház';
 $_['column_country']           = 'Ország';
-$_['column_date_added']        = 'Hozzáadva';
+$_['column_date_added']        = 'Hozzáadás dátuma';
 $_['column_action']            = 'Művelet';
 
 // Entry

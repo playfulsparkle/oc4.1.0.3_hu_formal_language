@@ -15,7 +15,7 @@ $_['column_username']      = 'Felhasználónév';
 $_['column_status']        = 'Állapot';
 $_['column_ip']            = 'IP cím';
 $_['column_call']          = 'Meghívás';
-$_['column_date_added']    = 'Hozzáadva';
+$_['column_date_added']    = 'Hozzáadás dátuma';
 $_['column_date_modified'] = 'Módosítva';
 $_['column_action']        = 'Művelet';
 

@@ -21,7 +21,7 @@ $_['column_status']       = 'Állapot';
 $_['column_order_id']     = 'Rendelési azonosító';
 $_['column_customer']     = 'Ügyfél';
 $_['column_amount']       = 'Összeg';
-$_['column_date_added']   = 'Hozzáadva';
+$_['column_date_added']   = 'Hozzáadás dátuma';
 $_['column_action']       = 'Művelet';
 
 // Entry

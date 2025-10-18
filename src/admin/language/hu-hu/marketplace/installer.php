@@ -16,7 +16,7 @@ $_['text_xml']               = 'OCMOD fájlok telepítése';
 $_['column_image']           = 'Kép';
 $_['column_name']            = 'Bővítmény név';
 $_['column_version']         = 'Verzió';
-$_['column_date_added']      = 'Létrehozva';
+$_['column_date_added']      = 'Hozzáadás dátuma';
 $_['column_action']          = 'Művelet';
 
 // Entry

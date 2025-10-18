@@ -12,7 +12,7 @@ $_['column_order_id']   = 'Rendelés Azonosító';
 $_['column_customer']   = 'Vásárló';
 $_['column_status']     = 'Állapot';
 $_['column_total']      = 'Összeg';
-$_['column_date_added'] = 'Hozzáadva';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 $_['column_action']     = 'Művelet';
 
 // Entry

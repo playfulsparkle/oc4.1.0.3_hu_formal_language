@@ -28,7 +28,7 @@ $_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> jutalékot
 $_['column_customer']              = 'Vásárló';
 $_['column_comment']               = 'Megjegyzés';
 $_['column_ip']                    = 'IP cím';
-$_['column_date_added']            = 'Hozzáadva';
+$_['column_date_added']            = 'Hozzáadás dátuma';
 
 // Entry
 $_['entry_customer']               = 'Vásárló';

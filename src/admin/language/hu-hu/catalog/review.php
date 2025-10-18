@@ -15,7 +15,7 @@ $_['column_product']    = 'Termék';
 $_['column_author']     = 'Szerző';
 $_['column_rating']     = 'Értékelés';
 $_['column_status']     = 'Állapot';
-$_['column_date_added'] = 'Hozzáadva';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 $_['column_action']     = 'Művelet';
 
 // Entry
@@ -24,7 +24,7 @@ $_['entry_author']      = 'Szerző';
 $_['entry_rating']      = 'Értékelés';
 $_['entry_status']      = 'Állapot';
 $_['entry_text']        = 'Szöveg (egycellás)';
-$_['entry_date_added']  = 'Hozzáadva';
+$_['entry_date_added']  = 'Hozzáadás dátuma';
 $_['entry_date_from']   = 'Dátumtól';
 $_['entry_date_to']     = 'Dátumig';
 

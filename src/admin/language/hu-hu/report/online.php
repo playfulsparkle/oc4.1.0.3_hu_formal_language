@@ -14,7 +14,7 @@ $_['column_ip']         = 'IP cím';
 $_['column_customer']   = 'Vásárló';
 $_['column_url']        = 'Legutolsó látogatott oldal';
 $_['column_referer']    = 'Hivatkozó';
-$_['column_date_added'] = 'Utolsó Kattintás';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 $_['column_action']     = 'Művelet';
 
 // Entry

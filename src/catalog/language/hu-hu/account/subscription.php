@@ -41,7 +41,7 @@ $_['column_trial_price']          = 'Próbaidőszak ára';
 $_['column_price']                = 'Ár';
 $_['column_total']                = 'Összesen';
 $_['column_comment']              = 'Megjegyzés';
-$_['column_date_added']           = 'Hozzáadva';
+$_['column_date_added']           = 'Hozzáadás dátuma';
 
 // Button
 $_['button_cancel']              = 'Előfizetés lemondása';

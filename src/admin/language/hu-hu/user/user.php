@@ -22,7 +22,7 @@ $_['column_user_group']        = 'Felhasználói csoport';
 $_['column_status']            = 'Állapot';
 $_['column_ip']                = 'IP cím';
 $_['column_user_agent']        = 'Böngésző Ügynök';
-$_['column_date_added']        = 'Hozzáadva';
+$_['column_date_added']        = 'Hozzáadás dátuma';
 $_['column_date_expire']       = 'Lejárati dátum';
 $_['column_action']            = 'Művelet';
 

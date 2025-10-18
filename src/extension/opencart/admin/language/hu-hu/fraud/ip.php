@@ -13,7 +13,7 @@ $_['text_ip_list']       = 'Tiltott IP-cím lista';
 // Column
 $_['column_ip']          = 'IP cím';
 $_['column_total']       = 'Összes fiók';
-$_['column_date_added']  = 'Hozzáadva';
+$_['column_date_added']  = 'Hozzáadás dátuma';
 $_['column_action']      = 'Művelet';
 
 // Entry

@@ -22,7 +22,7 @@ $_['text_filter']       = 'Szűrő';
 $_['column_email']      = 'E-mail';
 $_['column_request']    = 'Kérelem';
 $_['column_status']     = 'Állapot';
-$_['column_date_added'] = 'Hozzáadva';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 $_['column_action']     = 'Művelet';
 
 // Entry

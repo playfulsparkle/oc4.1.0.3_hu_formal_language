@@ -13,7 +13,7 @@ $_['text_message']       = '<p>Köszönjük, hogy benyújtotta reklamációs ké
 $_['text_return_id']     = 'Reklamáció azonosító:';
 $_['text_order_id']      = 'Rendelés azonosító:';
 $_['text_date_ordered']  = 'Rendelés dátuma:';
-$_['text_date_added']    = 'Hozzáadva:';
+$_['text_date_added']    = 'Hozzáadás dátuma:';
 $_['text_opened']          = 'Kibontott';
 $_['text_unopened']        = 'Bontatlan';
 $_['text_reason']        = 'Reklamáció indoka';
@@ -29,7 +29,7 @@ $_['text_agree']         = 'Elolvastam és elfogadom a <a href="%s" class="modal
 $_['column_return_id']   = 'Reklamáció azonosító';
 $_['column_order_id']    = 'Rendelés azonosító';
 $_['column_status']      = 'Állapot';
-$_['column_date_added']  = 'Hozzáadva';
+$_['column_date_added']  = 'Hozzáadás dátuma';
 $_['column_product']     = 'Termék név';
 $_['column_model']       = 'Cikkszám';
 $_['column_quantity']    = 'Mennyiség';

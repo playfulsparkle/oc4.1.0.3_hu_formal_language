@@ -14,7 +14,7 @@ $_['text_import']        = 'Nagy biztonsági mentési fájlok esetén érdemes a
 // Column
 $_['column_filename']    = 'Fájlnév';
 $_['column_size']        = 'Méret';
-$_['column_date_added']  = 'Hozzáadva';
+$_['column_date_added']  = 'Hozzáadás dátuma';
 $_['column_action']      = 'Művelet';
 
 // Entry

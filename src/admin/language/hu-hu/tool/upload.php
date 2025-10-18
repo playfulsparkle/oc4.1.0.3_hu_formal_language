@@ -10,7 +10,7 @@ $_['text_filter']        = 'Szűrő';
 // Column
 $_['column_name']        = 'Feltöltés neve';
 $_['column_code']        = 'Kód';
-$_['column_date_added']  = 'Hozzáadva';
+$_['column_date_added']  = 'Hozzáadás dátuma';
 $_['column_action']      = 'Művelet';
 
 // Entry

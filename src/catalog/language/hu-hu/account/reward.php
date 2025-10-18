@@ -9,6 +9,6 @@ $_['text_total']         = 'A bónuszpontok teljes száma:';
 $_['text_no_results']    = 'Nincsenek bónuszpontjai!';
 
 // Column
-$_['column_date_added']  = 'Hozzáadva';
+$_['column_date_added']  = 'Hozzáadás dátuma';
 $_['column_description'] = 'Leírás';
 $_['column_points']      = 'Bónuszpontok';

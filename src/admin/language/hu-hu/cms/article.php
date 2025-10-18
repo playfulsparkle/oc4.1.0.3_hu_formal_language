@@ -15,7 +15,7 @@ $_['text_keyword']            = 'Ne használjon szóközöket, helyettük haszn�
 $_['column_name']             = 'Cím';
 $_['column_author']           = 'Szerző';
 $_['column_rating']           = 'Értékelés';
-$_['column_date_added']       = 'Hozzáadva';
+$_['column_date_added']       = 'Hozzáadás dátuma';
 $_['column_action']           = 'Művelet';
 
 // Entry
