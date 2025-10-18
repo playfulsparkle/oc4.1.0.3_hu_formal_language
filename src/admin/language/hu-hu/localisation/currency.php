@@ -14,7 +14,7 @@ $_['column_title']         = 'Valuta';
 $_['column_code']          = 'Kód';
 $_['column_value']         = 'Érték';
 $_['column_status']        = 'Állapot';
-$_['column_date_modified'] = 'Utoljára frissítve';
+$_['column_date_modified'] = 'Módosítás dátuma';
 $_['column_action']        = 'Művelet';
 
 // Entry

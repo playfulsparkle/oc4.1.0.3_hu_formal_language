@@ -17,7 +17,7 @@ $_['text_month']           = 'Hónap';
 $_['column_code']          = 'Cron kód';
 $_['column_cycle']         = 'Ciklus';
 $_['column_date_added']    = 'Hozzáadás dátuma';
-$_['column_date_modified'] = 'Módosítva';
+$_['column_date_modified'] = 'Módosítás dátuma';
 $_['column_action']        = 'Művelet';
 
 // Entry

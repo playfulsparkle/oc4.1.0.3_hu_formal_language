@@ -16,7 +16,7 @@ $_['column_status']        = 'Állapot';
 $_['column_ip']            = 'IP cím';
 $_['column_call']          = 'Meghívás';
 $_['column_date_added']    = 'Hozzáadás dátuma';
-$_['column_date_modified'] = 'Módosítva';
+$_['column_date_modified'] = 'Módosítás dátuma';
 $_['column_action']        = 'Művelet';
 
 // Entry
