@@ -5,7 +5,7 @@ $_['heading_title']          = 'Előfizetések';
 // Text
 $_['text_success']           = 'Siker: Az előfizetési profil sikeresen módosítva lett!';
 $_['text_list']              = 'Előfizetési profil lista';
-$_['text_add']               = 'Előfizetés hzzáadása';
+$_['text_add']               = 'Előfizetés hozzáadása';
 $_['text_edit']              = 'Előfizetés szerkesztése';
 $_['text_subscription']      = 'Előfizetés';
 $_['text_trial']             = 'Próbaidőszak';
@@ -16,7 +16,7 @@ $_['text_month']             = 'Hónap';
 $_['text_year']              = 'Év';
 
 // Entry
-$_['entry_name']            = 'Előfizetési profil név';
+$_['entry_name']            = 'Előfizetési profil neve';
 $_['entry_trial_duration']  = 'Próbaidőszak időtartama';
 $_['entry_trial_cycle']     = 'Próbaidőszak ciklus';
 $_['entry_trial_frequency'] = 'Próbaidőszak gyakoriság';
@@ -28,7 +28,7 @@ $_['entry_status']          = 'Állapot';
 $_['entry_sort_order']      = 'Sorrend';
 
 // Column
-$_['column_name']           = 'Előfizetési profil név';
+$_['column_name']           = 'Előfizetési profil neve';
 $_['column_sort_order']     = 'Sorrend';
 $_['column_action']         = 'Művelet';
 
