@@ -15,9 +15,9 @@ Installation
 
 1. Download the "Hungarian language (formal)" package "ps_hu_formal_language.zip" from the OpenCart Marketplace.
 2. Extract the language package files to a folder.
-3. Use your preferred FTP client and navigate to the OpenCart 4.1.0.3 installation directory.
-4. Upload the following folders: "admin", "catalog", "extension" (and "install" if you are installing OpenCart 4.1.0.3 for the first time).
-5. Log in to the OpenCart 4.1.0.3 administration interface.
+3. Use your preferred FTP client and navigate to the OpenCart installation directory.
+4. Upload the following folders: "admin", "catalog", "extension" (and "install" if you are installing OpenCart for the first time).
+5. Log in to the OpenCart administration interface.
 6. Navigate to the "System" -> "Localization" -> "Languages" page.
 7. Click on the "Add New" button.
 8. In the "Language Name" field, enter "Magyar"; in the "Code" field, enter "hu-hu"; in the "Locale" field, enter "hu_HU.UTF-8,hu_HU,hu-hu,hungarian"; finally, enable the language.

@@ -11,29 +11,13 @@ Főbb jellemzők
 - Kompatibilis az OpenCart 4.1.0.3 verzióival.
 - A fordítás teljes körű és részletes; nagy figyelmet fordítottunk arra, hogy a kifejezések minden egyes oldalon egységesek legyenek, pl. "üzlet", "bolt" kifejezés helyett "áruház".
 
-Telepítés a bővítménytelepítő használatával
-
-1. Töltse le az OpenCart Marketplace oldaláról a "Hungarian language (formal)" csomagot.
-2. Jelentkezzen be az OpenCart 4.1.0.3 adminisztrációs felületére.
-3. Navigáljon az "Extensions" -> "Installer" oldalra.
-4. Kattintson az "Upload" feliratú gombra, és válassza ki a "ps_hu_formal_language.ocmod.zip" fájlt a feltöltéshez.
-   Figyelmeztetés: Ügyeljen rá, hogy a fájlnév pontosan "ps_hu_formal_language.ocmod.zip" legyen, máskülönben a telepítés sikertelen lesz!
-5. Látni fogja a "Hungarian language (formal)" bővítményt a listán, kattintson az "Install" feliratú gombra.
-   Figyelmeztetés: A telepítés eltarthat egy ideig, amíg a rendszer kicsomagolja a fájlokat; várjon, amíg meg nem jelenik a "Success: You have modified extensions!" üzenet.
-6. Navigáljon az "Extensions" oldalra, majd a "Choose the extension type" résznél válassza ki a "Languages" lehetőséget.
-7. Látni fogja a "Hungarian language (formal)" bővítményt a listán, kattintson az "Install" feliratú gombra.
-   Figyelmeztetés: A nyelvi beállítások alkalmazása eltarthat egy ideig, amíg a rendszer beállítja az új nyelvet; várjon, amíg meg nem jelenik a "Success: You have modified languages!" üzenet.
-8. Kattintson az "Edit" gombra, ezután engedélyezze a nyelvi bővítményt, majd kattintson a "Save" gombra; ezzel engedélyezte a nyelvi csomagot.
-
-Figyelmeztetés: Ha a nyelvi csomagot a bővítménytelepítő használatával telepítette, és az "Extensions" oldalon a "Languages" szekcióban a nyelvnél rákattint a "Uninstall" feliratú gombra, akkor a rendszer nemcsak a nyelvet távolítja el, hanem minden egyes termék, kategória stb. fordítását is!
-
-Manuális telepítés
+Telepítés
 
 1. Töltse le az "ps_hu_formal_language.zip" OpenCart Marketplace oldaláról a "Hungarian language (formal)" csomagot.
 2. Csomagolja ki a nyelvi csomag fájlait egy mappába.
-3. Használja kedvenc FTP kliensét, és navigáljon az OpenCart 4.1.0.3 telepítési könyvtárába.
-4. Töltse fel a következő mappákat: "admin", "catalog", "extension" (, és "install", ha még csak most telepíti az OpenCart 4.1.0.3-et).
-5. Jelentkezzen be az OpenCart 4.1.0.3 adminisztrációs felületére.
+3. Használja kedvenc FTP kliensét, és navigáljon az OpenCart telepítési könyvtárába.
+4. Töltse fel a következő mappákat: "admin", "catalog", "extension" (, és "install", ha még csak most telepíti az OpenCart-et).
+5. Jelentkezzen be az OpenCart adminisztrációs felületére.
 6. Navigáljon a "System" -> "Localization" -> "Languages" oldalra.
 7. Kattintson az "Add New" feliratú gombra.
 8. A "Language Name" mezőbe írja be "Magyar"; a "Code" mezőbe írja be "hu-hu"; a "Locale" mezőbe írja be "hu_HU.UTF-8,hu_HU,hu-hu,hungarian"; végül engedélyezze a nyelvet.
