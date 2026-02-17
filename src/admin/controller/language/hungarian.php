@@ -26,7 +26,9 @@ class Hungarian extends \Opencart\System\Engine\Controller
 			'href' => $this->url->link('extension/ps_hu_formal_language/language/hungarian', 'user_token=' . $this->session->data['user_token'])
 		];
 
-		$data['save'] = $this->url->link('extension/ps_hu_formal_language/language/hungarian.save', 'user_token=' . $this->session->data['user_token']);
+        $separator = version_compare(VERSION, '4.0.2.0', '>=') ? '.' : '|';
+
+		$data['save'] = $this->url->link('extension/ps_hu_formal_language/language/hungarian' . $separator . 'save', 'user_token=' . $this->session->data['user_token']);
 		$data['back'] = $this->url->link('marketplace/extension', 'user_token=' . $this->session->data['user_token'] . '&type=language');
 
 		$data['language_hungarian_status'] = $this->config->get('language_hungarian_status');

@@ -23,6 +23,7 @@ Installation
 8. In the "Language Name" field, enter "Magyar"; in the "Code" field, enter "hu-hu"; in the "Locale" field, enter "hu_HU.UTF-8,hu_HU,hu-hu,hungarian"; finally, enable the language.
 9. Click the "Save" button; this completes the installation of the language pack.
 
-Support and Updates
+Support & Inquiries
 
-After your purchase, you will receive free updates for the OpenCart 4.1.0.3 version. If future updates are released for the 4.x series, they will be available free of charge. If you encounter any problems or need assistance, you can request support via email at support@playfulsparkle.com.
+For assistance or inquiries related to this extension, please open an issue in
+the extension repository or contact us via email at support@playfulsparkle.com

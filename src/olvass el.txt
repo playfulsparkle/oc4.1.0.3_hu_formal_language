@@ -23,6 +23,8 @@ Telepítés
 8. A "Language Name" mezőbe írja be "Magyar"; a "Code" mezőbe írja be "hu-hu"; a "Locale" mezőbe írja be "hu_HU.UTF-8,hu_HU,hu-hu,hungarian"; végül engedélyezze a nyelvet.
 9. Kattintson a "Save" feliratú gombra; ezzel telepítette a nyelvi csomagot.
 
-Támogatás és Frissítések
+Támogatás és érdeklődés
 
-A vásárlást követően ingyenes frissítéseket kap az OpenCart 4.1.0.3 verziójához. Ha jövőbeli frissítések jelennek meg a 4.x-hez, azok ingyenesen elérhetők lesznek. Amennyiben bármilyen problémája van, vagy segítségre van szüksége, támogatást kérhet e-mailben a support@playfulsparkle.com címen.
+A bővítménnyel kapcsolatos segítségnyújtásért vagy kérdésekért, kérjük, jelezze
+észrevételét a bővítmény adattárában, vagy vegye fel velünk a kapcsolatot
+e-mailben a support@playfulsparkle.com címen.
