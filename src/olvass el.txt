@@ -25,6 +25,7 @@ Telepítés
 
 Támogatás és érdeklődés
 
-A bővítménnyel kapcsolatos segítségnyújtásért vagy kérdésekért, kérjük, jelezze
-észrevételét a bővítmény adattárában, vagy vegye fel velünk a kapcsolatot
-e-mailben a support@playfulsparkle.com címen.
+Amennyiben segítségre van szüksége, vagy kérdése merülne fel a bővítménnyel
+kapcsolatban, kérjük, nyisson egy hibajegyet ebben a tárolóban, látogasson el a
+https://support.playfulsparkle.com ügyfélszolgálati weboldalunkra, vagy lépjen
+kapcsolatba velünk a support@playfulsparkle.com e-mail-címen.

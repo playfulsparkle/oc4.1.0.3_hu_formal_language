@@ -25,5 +25,6 @@ Installation
 
 Support & Inquiries
 
-For assistance or inquiries related to this extension, please open an issue in
-the extension repository or contact us via email at support@playfulsparkle.com
+For assistance or inquiries related to this extension, please open an issue on
+this repository, visit our https://support.playfulsparkle.com support website,
+or contact us via email at support@playfulsparkle.com.
